@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<RepositoryCustomSettings xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <AutoRefresh>true</AutoRefresh>
+  <AutoRefreshRemotes>true</AutoRefreshRemotes>
+  <DraftCommitMsg />
+  <IncomingSavedCount>0</IncomingSavedCount>
+  <LastCheckedRemotes>2017-07-14T12:10:42.4301639-06:00</LastCheckedRemotes>
+  <LastUsedView>Log</LastUsedView>
+  <LogBranchFilterIndex>0</LogBranchFilterIndex>
+  <OutgoingSavedCount>1</OutgoingSavedCount>
+  <RemoteProjectLinks>
+    <RepositoryRemoteProjectLink>
+      <BaseUrl>https://www.bitbucket.org</BaseUrl>
+      <Identifier>EstuardoLopez1711/practica-14-07</Identifier>
+      <RemoteName>default</RemoteName>
+      <Type>Bitbucket</Type>
+    </RepositoryRemoteProjectLink>
+  </RemoteProjectLinks>
+  <SidebarExpandedItems>
+    <string>File Status</string>
+    <string>Branches</string>
+  </SidebarExpandedItems>
+  <SidebarWidth>210</SidebarWidth>
+  <SubtreeLinks />
+</RepositoryCustomSettings>
